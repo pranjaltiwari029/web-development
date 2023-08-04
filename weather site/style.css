@@ -8,6 +8,11 @@
 body{
     background: linear-gradient(135deg,gray,black)
 }
+.head{
+    text-align: center;
+    margin-top: 10%;
+    padding-bottom: 2%;
+}
 .card{
     width: 90%;
     max-width: 450px;
